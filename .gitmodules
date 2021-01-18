@@ -3,3 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "osrm"]
+	path = osrm
+	url = https://github.com/rcarto/osrm
+	shallow = true
+[submodule "tanaka"]
+	path = tanaka
+	url = https://github.com/rcarto/tanaka
+	shallow = true
